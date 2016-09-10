@@ -136,5 +136,5 @@ public class ProgressPanel extends JPanel implements ActionListener, PropertyCha
 		task.addPropertyChangeListener(this);
 		task.execute();
 	}
-
+	
 }
